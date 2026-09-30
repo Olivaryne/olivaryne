@@ -18,13 +18,18 @@ Much of my current product engineering happens in private repositories. Public p
 
 ### Current work
 
-**Teralli**  
-Building the trust layer for real estate transactions, beginning with identity, property evidence, legal verification and provenance.
+**[Teralli](https://teralli.com)**  
+Building the trust layer for African real estate, beginning with identity, property evidence, legal verification and provenance.
 
-**Veelo systems experimentation**  
-Exploring how deterministic workflows and bounded AI agents can operate safely in production environments.
+### Selected engineering work
+
+**[Veelo](https://runveelo.com)**  
+A governed AI workforce for small teams. I'm using Veelo to explore production-grade patterns for bounded agentic execution, human approval gates, deterministic workflows, auditability, model routing and local-first infrastructure.
+
+Selected parts of that systems work are public in [`openclaw-veelo`](https://github.com/Olivaryne/openclaw-veelo); the broader product remains private.
 
 ### Elsewhere
 
 - [Teralli](https://teralli.com)
+- [Veelo](https://runveelo.com)
 - [LinkedIn](https://www.linkedin.com/in/bayo-lokosu/)
