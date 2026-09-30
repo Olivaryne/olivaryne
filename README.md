@@ -23,6 +23,9 @@ Building the trust layer for African real estate, beginning with identity, prope
 
 ### Selected engineering work
 
+**[AWS Secure Service Blueprint](https://github.com/Olivaryne/aws-secure-service-blueprint)**  
+A production-oriented Terraform reference architecture for a secure multi-AZ AWS service, with private Fargate workloads, isolated encrypted PostgreSQL, explicit egress controls, least-privilege IAM, observability, native infrastructure tests and CI.
+
 **[Veelo](https://runveelo.com)**  
 A governed AI workforce for small teams. I'm using Veelo to explore production-grade patterns for bounded agentic execution, human approval gates, deterministic workflows, auditability, model routing and local-first infrastructure.
 
